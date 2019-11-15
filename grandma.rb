@@ -10,7 +10,7 @@ def speak_to_grandma(phrase)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-  else phrase
+  else 
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
